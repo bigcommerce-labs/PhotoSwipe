@@ -289,7 +289,9 @@
 		 * Function: fadeOut
 		 */
 		fadeOut: function(){
-		
+			if (this.settings.captionAndToolbarNeverHide) {
+				return;
+			}
 			this.clearTimeout();
 			
 			Util.Events.fire(this, { 

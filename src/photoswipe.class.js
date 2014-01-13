@@ -180,6 +180,7 @@
 				captionAndToolbarFlipPosition: false,
 				captionAndToolbarAutoHideDelay: 5000,
 				captionAndToolbarAutoHideOnSwipe: true,
+				captionAndToolbarNeverHide: false,
 				captionAndToolbarOpacity: 0.8,
 				captionAndToolbarShowEmptyCaptions: true,
 				getToolbar: PhotoSwipe.Toolbar.getToolbar,

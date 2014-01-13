@@ -24,6 +24,13 @@ Have you used PhotoSwipe? It'd be great to hear from you!
 It'd be fantastic to see how you have implemented PhotoSwipe on your site! We're looking at showcasing some of the best on [photoswipe.com](http://www.photoswipe.com). Feel free to drop us a tweet at [@photoswipe](http://twitter.com/#!/photoswipe) and tell us all about it!
 
 
+Latest Release v3.0.5.5
+-----------------------
+- Add captionAndToolbarNeverHide option
+
+Latest Release v3.0.5.4
+-----------------------
+- Fix for iOS gestures
 
 Latest Release v3.0.5
 ---------------------
@@ -165,6 +172,7 @@ Options
 - **captionAndToolbarFlipPosition**: Place the caption at the bottom and the toolbar at the top. Default = false
 
 - **captionAndToolbarHide**: Hide the caption and toolbar. Default = false
+- **captionAndToolbarNeverHide**: Never hide the caption and toolbar. Default = false
 
 - **captionAndToolbarOpacity**: The opacity of the caption and toolbar. Default = 0.8
 
